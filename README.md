@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Erlan
+![Profile views](https://gpvc.arturio.dev/erlanherlangga1)
 - 🔭 I’m currently  Informatics Student at Gunadarma University
 - 🌱 I’m currently learning Machine Learning at Bangkit Academy led by Google, Tokopedia, Gojek & Traveloka
 
