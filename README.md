@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Erlan
+<h1 align="center">Hi There 👋, I'm Erlan Herlangga</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erlanherlangga1&label=Profile%20views&color=0e75b6&style=flat" alt="erlanherlangga1" /> </p>
 ![Profile views](https://gpvc.arturio.dev/erlanherlangga1)
 - 🔭 I’m currently  Informatics Student at Gunadarma University
 - 🌱 I’m currently learning Machine Learning at Bangkit Academy led by Google, Tokopedia, Gojek & Traveloka
